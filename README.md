@@ -1,1 +1,1 @@
-# Data-analyst-scince-portifolio
+# Data-analyst-science-portifolio
