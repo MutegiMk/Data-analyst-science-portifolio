@@ -15,4 +15,4 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
    
    * [House_prediction-XGBoostReg](https://mutegimk.github.io/Data-analyst-science-portifolio/House_prediction-XGBoostReg) : This project predict the prices oh boston        houses given the boston dataset using XGBoost regression.
 
-  * 
+  *  [House prediction-Ridge Regression](https://mutegimk.github.io/Data-analyst-science-portifolio/House-prediction-Ridge-Regression): The project was a case study of        Ridge Regression which is a popular type of regularized linear regression that includes an L2 penalty. This has the effect of shrinking the coefficients for those        input variables that do not contribute much to the prediction task.and also determing which the Hyperparameters of aplha is best for the given dataset.
