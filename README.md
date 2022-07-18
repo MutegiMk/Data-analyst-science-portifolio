@@ -5,5 +5,7 @@ Repository containing portfolio of data science projects completed by me for aca
 Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
 ### Contents
-  ### Data and Visualization
-  * [WranglingA](https://mutegimk.github.io/Data-analyst-science-portifolio/WranglingA) :This project invovles sourcing of data from different platforms, Cleaning the       dataset and perfoming visualization and docummenting the insights. Also here one requires a twitter developer account to get retweet and favourite count tweets as       you will in the notebook through API
+  ### Data Analysis and Visualization
+  * [WranglingA](https://mutegimk.github.io/Data-analyst-science-portifolio/WranglingA) :This project invovles sourcing of data from different platforms, Cleaning the       dataset and perfoming visualization and docummenting the insights. Also here one requires a twitter developer account to get retweet and favourite count tweets as       you will in the notebook through API.
+  
+  * [Data Visualization](https://mutegimk.github.io/Data-analyst-science-portifolio/Data-Visualization) : This project has a couple of files but the main purpose for         this analysis was to deliver several insights from the melbourne housing dataset accompanied with relevant visuals and also factoring polices guiding quality of         visualization both in exploratory and explanatory analysis.
