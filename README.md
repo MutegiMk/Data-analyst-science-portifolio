@@ -6,9 +6,10 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
 ### Contents
   ### Data Analysis and Visualization
-  * [WranglingA](https://mutegimk.github.io/Data-analyst-science-portifolio/-WranglingA) :This project invovles sourcing of data from different platforms, Cleaning the       dataset and perfoming visualization and docummenting the insights. Also here one requires a twitter developer account to get retweet and favourite count tweets as       you will in the notebook through API.
   
-  * [Data Visualization](https://github.com/MutegiMk/Data-analyst-science-portifolio/tree/main/Data%20Visualization) : This project has a couple of files but the main purpose for         this analysis was to deliver several insights from the melbourne housing dataset accompanied with relevant visuals and also factoring polices guiding quality of         visualization both in exploratory and explanatory analysis.
+  * [WranglingA](https://github.com/MutegiMk/Data-analyst-science-portifolio/tree/main/WranglingA) :This project invovles sourcing of data from different platforms,       Cleaning the dataset and perfoming visualization and docummenting the insights. Also here one requires a twitter developer account to get retweet and favourite         count tweets as you will in the notebook through API.
+  
+  * [Data Visualization](https://github.com/MutegiMk/Data-analyst-science-portifolio/tree/main/Data%20Visualization) : This project has a couple of files but the main     purpose for this analysis was to deliver several insights from the melbourne housing dataset accompanied with relevant visuals and also factoring polices guiding       quality of visualization both in exploratory and explanatory analysis.
   
   * _Tools: Pandas, mumpy, Seaborn and Matplotlib_
   
