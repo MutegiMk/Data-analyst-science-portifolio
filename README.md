@@ -23,7 +23,8 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
   *  _Tools: scikit-learn, Pandas, Seaborn, Matplotlib_
   
   ### Python Project
-   * [Mutegi_binomial_package](https://mutegimk.github.io/Data-analyst-science-portifolio/Mutegi_binomial_package) : This project utilizes Object oriented programming      to build a package that can calculate mean, standard deviation, binomial and gaussian probability density function as well as reading a text file plotting a            barchart and a histogram. you can download the package [here](https://pypi.org/project/tesh-gaubiprop/) and install it using `pip install tesh-GauBiprop`
+   * [Mutegi_binomial_package](https://github.com/MutegiMk/Data-analyst-science-portifolio/tree/main/mutegi_binomial_package) : This project utilizes Object oriented        programming to build a package that can calculate mean, standard deviation, binomial and gaussian probability density function as well as reading a text file          plotting a barchart and a histogram. you can download the package [here](https://pypi.org/project/tesh-gaubiprop/) and install it using `pip install 
+    `tesh-GauBiprop`
     
    * _tools: Python_
    
