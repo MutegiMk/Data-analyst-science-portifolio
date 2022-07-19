@@ -26,4 +26,3 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
     
    * _tools: Python_
    
-   https://github.com/MutegiMk/Data-analyst-science-portifolio/tree/main/Data%20Visualization
