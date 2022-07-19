@@ -14,7 +14,7 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
   * _Tools: Pandas, mumpy, Seaborn and Matplotlib_
   
   ### Machine Learning
-   * [Diabetes prediction](https://mutegimk.github.io/Data-analyst-science-portifolio/Diabetes-prediction) : This project predicts if the patient has diabetes or not          given the various medical data of the patients, Support vector machines (SVMs) is incoporated.
+   * [Diabetes prediction](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/Diabetes%20prediction.ipynb) : This project predicts if the patient        has diabetes or not given the various medical data of the patients, Support vector machines (SVMs) is incoporated.
    
    * [House_prediction-XGBoostReg](https://mutegimk.github.io/Data-analyst-science-portifolio/House_prediction-XGBoostReg) : This project predict the prices oh boston        houses given the boston dataset using XGBoost regression.
 
