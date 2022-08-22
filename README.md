@@ -20,6 +20,9 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
   *  [House prediction-Ridge Regression](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/Housing%20Prediction%20-Ridge%20Regression.ipynb): The        project was a case study of Ridge Regression which is a popular type of regularized linear regression that includes an L2 penalty. This has the effect of              shrinking the coefficients for those input variables that do not contribute much to the prediction task.and also determing which the Hyperparameters of aplha is        best for the given dataset.
   
+  *  [Credit_fraud_detection](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/Diabetes%20prediction.ipynb): This project used logisticRegression 
+     to predict whether a transaction is legit or a fraud
+  
   *  _Tools: scikit-learn, Pandas, Seaborn, Matplotlib_
   
   ### Python Project
