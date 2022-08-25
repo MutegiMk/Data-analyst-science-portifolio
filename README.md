@@ -25,6 +25,8 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
      
   *  [stockPricePrediction](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/stockPricePrediction.ipynb): this project uses long short term memory       neural network to predict closing prices of Apple stock
   
+  *  [StockmarketPrediction](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/StockMarketPrediction.ipynb): This project uses sp500 index prices        to predict next dat prices
+  
   *  _Tools: scikit-learn, Pandas, Seaborn, Matplotlib_, K_means
   
   ### Python Project
