@@ -21,9 +21,11 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
   *  [House prediction-Ridge Regression](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/Housing%20Prediction%20-Ridge%20Regression.ipynb): The        project was a case study of Ridge Regression which is a popular type of regularized linear regression that includes an L2 penalty. This has the effect of              shrinking the coefficients for those input variables that do not contribute much to the prediction task.and also determing which the Hyperparameters of aplha is        best for the given dataset.
   
   *  [Credit_fraud_detection](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/Diabetes%20prediction.ipynb): This project used logisticRegression 
-     to predict whether a transaction is legit or a fraud
+     to predict whether a transaction is legit or a fraud 
+     
+  *  [stockPricePrediction](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/stockPricePrediction.ipynb): this project uses long short term memory       neural network to predict closing prices of Apple stock
   
-  *  _Tools: scikit-learn, Pandas, Seaborn, Matplotlib_
+  *  _Tools: scikit-learn, Pandas, Seaborn, Matplotlib_, K_means
   
   ### Python Project
    * [Mutegi_binomial_package](https://github.com/MutegiMk/Data-analyst-science-portifolio/tree/main/mutegi_binomial_package) : This project utilizes Object oriented        programming to build a package that can calculate mean, standard deviation, binomial and gaussian probability density function as well as reading a text file          plotting a barchart and a histogram. you can download the package [here](https://pypi.org/project/tesh-gaubiprop/) and install it using `pip install 
