@@ -33,7 +33,7 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
    * [Mutegi_binomial_package](https://github.com/MutegiMk/Data-analyst-science-portifolio/tree/main/mutegi_binomial_package) : This project utilizes Object oriented        programming to build a package that can calculate mean, standard deviation, binomial and gaussian probability density function as well as reading a text file          plotting a barchart and a histogram. you can download the package [here](https://pypi.org/project/tesh-gaubiprop/) and install it using `pip install 
     `tesh-GauBiprop`
     
-    * [MovieeRecommenderSystem](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/MovieRecommenderSystem.ipynb): This project uses python and pandas to recommend  movies based on similar people who liked same movie as you and from all the users using a percentage score.
+   * [MovieRecommenderSystem](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/MovieRecommenderSystem.ipynb): This project uses python and              pandas to recommend  movies based on similar people who liked same movie as you and from all the users using a percentage score.
     
    * _tools: Python_
    
