@@ -1,4 +1,4 @@
-# Data-analyst-science-portifolio
+# Data Analyst | Machine Learning `portifolio`
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks
 
 ## Instructions for Running Python Notebooks Locally
@@ -28,6 +28,8 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
   *  [StockmarketPrediction](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/StockMarketPrediction.ipynb): This project uses sp500 index prices        to predict next day prices
   
   * [Customer Segmentation Using KMeans](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/Customer_Segmentation_using_K_means.ipynb): This project     uses a dataset from kaggle to group clusters of certain customers and their spending score
+  
+  * [Parkinson's Disease Detection](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/Parkinson's_Disease_Detection.ipynb): This machine learning       project uses SVM algorithm to tell if a patient has Parkinson's disease or not
   
   *  _Tools: scikit-learn, Pandas, Seaborn, Matplotlib_, K_means
   
