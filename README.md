@@ -31,6 +31,9 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
   
   * [Parkinson's Disease Detection](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/Parkinson's_Disease_Detection.ipynb): This machine learning       project uses SVM algorithm to tell if a patient has Parkinson's disease or not
   
+  * [Heart Disease Detection](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/Heart_Disease_Detection.ipynb):This machine learning       project     uses LogisticRegression algorithm to tell if a patient has Heart disease or not
+  
+
   *  _Tools: scikit-learn, Pandas, Seaborn, Matplotlib_, K_means
   
   ### Python Project
