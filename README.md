@@ -33,6 +33,7 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
   
   * [Heart Disease Detection](https://github.com/MutegiMk/Data-analyst-science-portifolio/blob/main/Heart_Disease_Detection.ipynb):This machine learning       project     uses LogisticRegression algorithm to tell if a patient has Heart disease or not
   
+  * [DeepLearning Cat and Dogs](https://github.com/MutegiMk/DL-TransferLearning-cats-and-Dogs):
 
   *  _Tools: scikit-learn, Pandas, Seaborn, Matplotlib_, K_means
   
